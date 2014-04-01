@@ -1,6 +1,6 @@
 Argent, un mod permettant de créer une économie sur un serveur minetest.
 
-Créé par turbogus, Zaraki98 et Ze_Escrobar
+Créé par turbogus, Zaraki98, Ze_Escrobar et Mg
 
 Code et graphisme en GPL
 
